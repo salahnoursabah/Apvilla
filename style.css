@@ -1,0 +1,78 @@
+@font-face {
+    font-family: bootstrap-icons;
+    src: url('../fonts/bootstrap-icons.woff'), url(../fonts/bootstrap-icons.woff2);
+}
+
+body {}
+
+ul {
+    position: relative;
+    right: 334px;
+}
+
+.btn1 {
+    position: absolute;
+    right: 10px;
+}
+
+.bi {
+    box-sizing: 2px 2px 4px gray;
+}
+
+.bi {
+    width: 35px;
+    height: 44px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.col {
+    position: relative;
+    left: 40px;
+    top: 40px;
+}
+
+.para1 {
+    position: absolute;
+    left: 298px;
+}
+
+.sec {
+    position: relative;
+    bottom: 94PX;
+}
+
+.para2 {
+    position: absolute;
+    left: 350px;
+}
+
+.bibi {
+    position: relative;
+    left: 249px;
+    bottom: 71px;
+}
+
+.sec1 {
+    background-color: rgb(230, 233, 235);
+}
+
+.POSI {
+    position: relative;
+    left: 1px;
+}
+
+.testi1 {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.POSI2 {
+    position: relative;
+    left: 25%;
+}
+
+footer {
+    background-color: slateblue;
+}
